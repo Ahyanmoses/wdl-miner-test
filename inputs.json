@@ -1,0 +1,15 @@
+{
+        "BatVI.docker":"public.ecr.aws/c2g9x2v2/dazat",
+        "BatVI.left":"",
+        "BatVI.right":"",
+        "BatVI.Human_BLAST_index":"",
+        "BatVI.Human_BatIndex":"",
+        "BatVI.Human_BWA_Index":"",
+        "BatVI.Virus_BLAST_index":"",
+        "BatVI.Virus_BatIndex":"",
+        "BatVI.Virus_BWA_Index":"",
+        "BatVI.insertion_length":"200",
+        "BatVI.cpus":"96",
+        "BatVI.preemptible":"1",
+        "BatVI.sample_id":""
+}
